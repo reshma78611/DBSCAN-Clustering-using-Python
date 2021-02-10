@@ -52,4 +52,4 @@ In this repository we will discuss mainly about *DBSCAN Clustering*
           Python
 
 
-## **The Codes regarding this DBSCAN Clustering with different business problem *Clustoring of customers deprnding on their priorities* with its dataset is present in this Repository in detail**
+**The Codes regarding this DBSCAN Clustering with different business problem *Clusturing of customers depending on their priorities* with its dataset is present in this Repository in detail**
